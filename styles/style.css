@@ -1,0 +1,30 @@
+.page {
+    background-color: var(--background-color);
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.catalog__menu-list {
+    display: flex;
+    gap: var(--gap);
+}
+
+.catalog__menu-item {
+    font-size: 24px;
+    color: var(--text-color);
+    font-variation-settings: 'wght' 600;
+}
+
+.user__interaction-block {
+    display: flex;
+    gap: var(--gap);
+}
+
+.button {
+    background-color: transparent;
+    border: none;
+}
