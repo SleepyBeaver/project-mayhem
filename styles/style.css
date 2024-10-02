@@ -15,6 +15,7 @@
 
 .catalog__menu-item {
     font-size: 24px;
+    font-family: 'Nunito', sans-serif;
     color: var(--text-color);
     font-variation-settings: 'wght' 600;
 }
